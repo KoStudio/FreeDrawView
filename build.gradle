@@ -8,6 +8,9 @@ buildscript {
         google()
         mavenCentral()
         jcenter()
+
+        maven { url 'https://jitpack.io' }
+
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:7.0.4'
@@ -24,6 +27,8 @@ allprojects {
         google()
         mavenCentral()
         jcenter()
+
+        maven { url 'https://jitpack.io' }
     }
     tasks.withType(Javadoc) {
         options.addStringOption('Xdoclint:none', '-quiet')
