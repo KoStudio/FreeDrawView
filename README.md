@@ -14,12 +14,20 @@ You can try the demo app on google play store. <br />
 coming soon <br /> <br />
 Or see the full video demo on YouTube. <br />
 https://youtu.be/ejEdq4lnPjc <br /> <br />
+[![](https://jitpack.io/v/KoStudio/FreeDrawView.svg)](https://jitpack.io/#KoStudio/FreeDrawView)
 
 Download
 ------
 #### Gradle:
 ```groovy
-compile 'com.rm:freedrawview:1.1.2'
+~~~compile 'com.rm:freedrawview:1.1.2'~~~
+
+maven { url 'https://jitpack.io' }
+
+	dependencies {
+	        implementation 'com.github.KoStudio:FreeDrawView:1.1.2'
+	}
+
 ```
 
 <br />
