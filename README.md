@@ -19,8 +19,10 @@ https://youtu.be/ejEdq4lnPjc <br /> <br />
 Download
 ------
 #### Gradle:
-```groovy
 ~~~compile 'com.rm:freedrawview:1.1.2'~~~
+
+```groovy
+
 
 maven { url 'https://jitpack.io' }
 
