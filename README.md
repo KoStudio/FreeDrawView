@@ -19,8 +19,8 @@ https://youtu.be/ejEdq4lnPjc <br /> <br />
 Download
 ------
 #### Gradle:
-~~~compile 'com.rm:freedrawview:1.1.2'~~~
 
+~~compile 'com.rm:freedrawview:1.1.2'~~
 ```groovy
 
 
